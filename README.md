@@ -33,7 +33,7 @@ Focus on health informatics or predictive modeling to solve real-world problems.
 
 
 📫 How to reach me:
-Email: kebe@outlook.com
+Email: kebef@outlook.com
 
 
 ⚡ Fun Fact:

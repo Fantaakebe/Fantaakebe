@@ -1,6 +1,6 @@
 👋 Hi, I’m Fanta Kébé
 About Me
-I’m a second-year student at Northeastern University, pursuing a B.S. in Data Science and Psychology. I’m passionate about the intersection of both fields, particularly how technology can be used to promote mental health and well-being.
+I’m a second-year student at Northeastern University, pursuing a B.S. in Data Science and Psychology. I’m passionate about the intersection of both fields.
 
 
 🌍 Background

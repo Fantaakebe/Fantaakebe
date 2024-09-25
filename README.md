@@ -1,6 +1,6 @@
 👋 Hi, I’m Fanta Kébé
 About Me
-I’m a second-year student at Northeastern University, pursuing a B.S. in Data Science and Psychology. I’m passionate about the intersection of both fields, particularly how technology can be used to promote mental health and well-being.
+I’m a second-year student at Northeastern University, pursuing a B.S. in Data Science and Psychology. I’m passionate about the intersection of both fields, particularly analyzing data for public health improvements.
 
 
 🌍 Background
@@ -15,13 +15,13 @@ Predictive Modeling: I love working on projects that involve predicting outcomes
 Aside from academics, I’m a huge fan of Football (You'll Never Walk Alone!), and I enjoy traveling, teaching, and trying out new foods.
 
 
-💻 Current Learning
+💻 Current Learning:
+
 I’m currently honing my skills in:
 
 
 Machine Learning: Building models for predictive analytics.
 Data Science Tools: Working with Python, R, and various data visualization libraries.
-Epidemiology & Health Informatics: Analyzing data for public health improvements.
 
 
 🤝 Collaboration
